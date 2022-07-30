@@ -79,7 +79,7 @@ npm start
 ### Redeploy
 ```js
 SETUP
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V3
+git clone https://github.com/Toxic-Alexa_V3/Toxic-Alexa_V3
 cd Toxic-Alexa_V3
 npm start
 ```
